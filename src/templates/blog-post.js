@@ -1,6 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
-import Link from "gatsby-link"
+import { Link, graphql } from "gatsby"
 
 export default function Template({ data }) {
   const post = data.markdownRemark
@@ -12,7 +12,9 @@ export default function Template({ data }) {
         Posted by {post.frontmatter.author} on {post.frontmatter.date}
       </h4>
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
-      <Link to="/blog">Go Back</Link>
+      <Link className="readmore" to="/blog">
+        Go Back
+      </Link>
     </Layout>
   )
 }
