@@ -1,7 +1,7 @@
 ---
 path: "/post-three"
 date: "2019-07-18"
-title: "My Third Gatsby Post"
+title: "Third Gatsby Post"
 author: "Linda Doe"
 ---
 

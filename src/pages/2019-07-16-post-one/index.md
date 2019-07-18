@@ -1,7 +1,7 @@
 ---
 path: "/post-one"
 date: "2019-07-16"
-title: "My First Gatsby Post"
+title: "First Gatsby Post"
 author: "R K"
 ---
 
