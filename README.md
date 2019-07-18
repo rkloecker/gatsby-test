@@ -1,3 +1,10 @@
+## gatsby-test
+
+## a simple blog post test for using Gatsby static site generator
+
+## [Deployed with netlify](https://optimistic-franklin-32e0f9.netlify.com/)
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
